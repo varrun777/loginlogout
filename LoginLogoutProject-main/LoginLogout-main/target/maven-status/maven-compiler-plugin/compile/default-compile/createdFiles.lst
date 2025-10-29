@@ -1,0 +1,6 @@
+com\loginlogout\UserDAO.class
+com\loginlogout\LogoutServlet.class
+com\loginlogout\DBConnection.class
+com\loginlogout\LoginApp.class
+com\loginlogout\LoginServlet.class
+com\loginlogout\EmbeddedServer.class
